@@ -4,3 +4,6 @@ print(formal + hola)
 
 print("hola mundo")
 
+for i in range(2):
+    print("hola mundo")
+
